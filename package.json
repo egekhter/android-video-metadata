@@ -1,0 +1,45 @@
+{
+  "_from": "cordova-plugin-video-metadata",
+  "_id": "cordova-plugin-video-metadata@0.0.1",
+  "_inBundle": false,
+  "_integrity": "sha512-C86BFePmQBRtxCL1OkenGqaOYmCmQjSZbPWpsvPnYefKSFnsXobLnznCQy1Qu1s5E6kyv+5qIwX6NX+VZM42pg==",
+  "_location": "/cordova-plugin-video-metadata",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "cordova-plugin-video-metadata",
+    "name": "cordova-plugin-video-metadata",
+    "escapedName": "cordova-plugin-video-metadata",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-video-metadata/-/cordova-plugin-video-metadata-0.0.1.tgz",
+  "_shasum": "2846c2d02ceda598a0e7f5a6370c18b01639173d",
+  "_spec": "cordova-plugin-video-metadata",
+  "_where": "/Library/WebServer/Documents/memorable/app",
+  "author": {
+    "name": "MindKind Creative"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-video-metadata",
+    "platforms": [
+      "android"
+    ]
+  },
+  "deprecated": false,
+  "description": "Get video metadata on Android.",
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "ISC",
+  "name": "cordova-plugin-video-metadata",
+  "version": "0.0.1"
+}
